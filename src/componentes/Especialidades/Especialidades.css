@@ -1,0 +1,36 @@
+.especialidades {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.doc1,
+.doc2,
+.doc3 {
+  height: 170px;
+  width: 170px;
+  margin-right: 50px;
+  margin-top: 20px;
+}
+
+.doc1,
+.btncontato1 {
+  margin-right: 100px;
+}
+
+.doc3,
+.btncontato3 {
+  margin-left: 100px;
+}
+
+.btncontato2 {
+  margin-left: 80px;
+}
+
+.btncontato1,
+.btncontato2,
+.btncontato3 {
+  margin-right: 50px;
+  background: #79cee8;
+  text-align: center;
+}

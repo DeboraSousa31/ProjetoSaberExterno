@@ -1,0 +1,23 @@
+.navegacao {
+  display: inline-flex;
+  align-items: center;
+  height: 70px;
+  background-color: #062142;
+  color: #ffffff;
+}
+
+button {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  border-radius: 20px;
+  background: #79cee8;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+  margin-right: 40px;
+}
