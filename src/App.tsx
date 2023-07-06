@@ -10,11 +10,9 @@ import AppRoutes from './AppRoutes';
 function App() {
   return (
     <>
-      <Container>
-        <Navegacao></Navegacao>
-        <AppRoutes></AppRoutes>
-        <Footer></Footer>
-      </Container>
+      <Navegacao></Navegacao>
+      <AppRoutes></AppRoutes>
+      <Footer></Footer>
     </>
   );
 }

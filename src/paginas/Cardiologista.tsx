@@ -1,8 +1,9 @@
-import { Cardiologista } from '../componentes/Especialidades/Cardiologista';
+import { PaginaCardiologista } from '../componentes/Cardiologista/PaginaCardiologista';
+
 export const Cardiologia = () => {
   return (
     <>
-      <Cardiologista></Cardiologista>
+      <PaginaCardiologista></PaginaCardiologista>
     </>
   );
 };

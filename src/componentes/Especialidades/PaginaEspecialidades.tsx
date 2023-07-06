@@ -11,7 +11,7 @@ export const PaginaEspecialidades = () => {
 
       <div>
         <button className="btncontato1">
-          <a href="Cardiologista">Cardiologista</a>
+          <a href="cardiologista">Cardiologista</a>
         </button>
         <button className="btncontato2">
           <a href="Dermatologista">Dermatologista</a>

@@ -21,26 +21,34 @@ export const Empresa = () => {
         possível.
       </p>
 
-      <h3>Missão</h3>
-      <p>
-        Atender com qualidade e excelência, prezando pelo bem-estar e
-        privacidade de todos e utilizando a tecnologia para agregar.
-      </p>
-
-      <h3>Visão</h3>
-      <p>
-        Expandir o quadro de especialidades médicas e ser referência em
-        atendimento humanizado, colocando as necessidades e bem-estar dos nossos
-        clientes em primeiro lugar.{' '}
-      </p>
-
-      <h3>Valores</h3>
-      <ul>
-        <li>Excelência no atendimento</li>
-        <li>Privacidade e ética</li>
-        <li>Bem-estar</li>
-        <li>Respeito à diversidade</li>
-      </ul>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <h3>Missão</h3>
+            <p>
+              Atender com qualidade e excelência, prezando pelo bem-estar e
+              privacidade de todos e utilizando a tecnologia para agregar.
+            </p>
+          </div>
+          <div class="col-sm">
+            <h3>Visão</h3>
+            <p>
+              Expandir o quadro de especialidades médicas e ser referência em
+              atendimento humanizado, colocando as necessidades e bem-estar dos
+              nossos clientes em primeiro lugar.{' '}
+            </p>
+          </div>
+          <div class="col-sm">
+            <h3>Valores</h3>
+            <ul>
+              <li>Excelência no atendimento</li>
+              <li>Privacidade e ética</li>
+              <li>Bem-estar</li>
+              <li>Respeito à diversidade</li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

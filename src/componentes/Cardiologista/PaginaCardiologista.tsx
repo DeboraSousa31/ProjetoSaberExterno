@@ -1,6 +1,4 @@
-import './Especialidades.css';
-
-export const Cardiologista = () => {
+export const PaginaCardiologista = () => {
   return (
     <>
       <h1>Especialidade</h1>
