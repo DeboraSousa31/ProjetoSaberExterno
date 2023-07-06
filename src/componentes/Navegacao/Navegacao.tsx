@@ -33,7 +33,10 @@ export const Navegacao = () => {
         </div>
 
         <button>
-          <a href="https://api.whatsapp.com/send?phone=5511949476966">
+          <a
+            href="https://api.whatsapp.com/send?phone=5511949476966"
+            target="_blank"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="16"
