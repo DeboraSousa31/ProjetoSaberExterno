@@ -7,30 +7,24 @@
 .doc1,
 .doc2,
 .doc3 {
-  height: 170px;
-  width: 170px;
-  margin-right: 50px;
-  margin-top: 20px;
+  height: 150px;
+  width: 150px;
 }
 
-.doc1,
-.btncontato1 {
+.doc1 {
   margin-right: 100px;
 }
 
-.doc3,
-.btncontato3 {
+.doc3 {
   margin-left: 100px;
 }
 
-.btncontato2 {
-  margin-left: 80px;
+.destaque,
+h6 {
+  font-weight: bold;
 }
 
-.btncontato1,
-.btncontato2,
-.btncontato3 {
-  margin-right: 50px;
-  background: #79cee8;
-  text-align: center;
+.logo {
+  height: 100px;
+  width: 150px;
 }

@@ -4,6 +4,7 @@
   height: 70px;
   background-color: #062142;
   color: #ffffff;
+  align-items: center;
 }
 
 button {
@@ -19,5 +20,9 @@ button {
 a {
   text-decoration: none;
   color: #ffffff;
-  margin-right: 40px;
+  margin-right: 80px;
+}
+
+span {
+  margin: 5px;
 }

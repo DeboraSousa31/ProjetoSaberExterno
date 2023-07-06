@@ -4,7 +4,7 @@ export const Footer = () => {
   return (
     <Row>
       <div className="footer">
-        <footer>
+        <footer class="footer-top-wrap">
           <div class="container">
             <div class="row">
               <div class="col-sm">
