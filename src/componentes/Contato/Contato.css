@@ -8,8 +8,9 @@ h2 {
 }
 
 .local,
-.fone,
-.textocontato {
+.tel,
+.textocontato,
+.whats {
   padding: 5px;
   text-align: center;
 }
