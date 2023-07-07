@@ -71,13 +71,13 @@ export const PaginaEspecialidades = () => {
               <br />
               CRM PI-785426
             </p>
-            <img className="doc1" src="src/assets/img/doctor4.jpg" />
+            <img className="doc1" src="src/assets/img/doctor4.png" />
 
             <p className="destaque">
               Dra. Bianca Medeiros Fontes
               <br /> CRM CE-123456
             </p>
-            <img className="doc1" src="src/assets/img/doctor6.jpg" />
+            <img className="doc1" src="src/assets/img/doctor6.png" />
           </div>
         </div>
       </div>

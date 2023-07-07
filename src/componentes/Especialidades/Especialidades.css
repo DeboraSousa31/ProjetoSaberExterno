@@ -13,6 +13,8 @@
 
 .doc1 {
   margin-right: 100px;
+  display: block;
+  margin: 0 auto;
 }
 
 .doc3 {
